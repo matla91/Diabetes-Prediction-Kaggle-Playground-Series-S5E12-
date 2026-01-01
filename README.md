@@ -165,6 +165,17 @@ These were intentionally excluded to preserve methodological integrity.
 
 ---
 
+The dataset used in this project comes from the Kaggle competition:
+Playground Series Season 5 – Episode 12.
+
+Due to Kaggle's terms of use, the data is not included in this repository.
+
+To reproduce the notebook:
+1. Download `train.csv` and `test.csv` from Kaggle
+2. Place them in this directory
+
+---
+
 ## 📫 Contact
 
 - **LinkedIn**: https://www.linkedin.com/in/matthis-lahargoue  
