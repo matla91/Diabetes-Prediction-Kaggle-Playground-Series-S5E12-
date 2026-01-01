@@ -155,3 +155,31 @@ These were intentionally excluded to preserve methodological integrity.
 
 ## 📂 Repository Structure
 
+├── notebook/
+│ └── diabetes_prediction.ipynb
+├── data/
+│ └── README.md
+├── requirements.txt
+└── README.md
+
+
+---
+
+## 🛠️ Tools & Libraries
+
+- Python
+- Pandas / NumPy
+- Scikit-learn
+- LightGBM
+- SHAP
+- Seaborn / Matplotlib
+- SciPy
+
+---
+
+## 📫 Contact
+
+- **LinkedIn**: https://www.linkedin.com/in/matthis-lahargoue  
+- **Kaggle**: https://www.kaggle.com/matthislahargoue
+
+Feedback and discussion are welcome.
