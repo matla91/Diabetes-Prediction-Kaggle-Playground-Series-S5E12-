@@ -153,18 +153,6 @@ These were intentionally excluded to preserve methodological integrity.
 
 ---
 
-## 📂 Repository Structure
-
-├── notebook/
-│ └── diabetes_prediction.ipynb
-├── data/
-│ └── README.md
-├── requirements.txt
-└── README.md
-
-
----
-
 ## 🛠️ Tools & Libraries
 
 - Python
